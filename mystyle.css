@@ -7,7 +7,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #8d1955;
+    background-color: #0c4bf7;
     font-family:cursive;
   }
 
@@ -17,7 +17,7 @@ ul {
 
   li a {
     display: block;
-    color: Pink;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
