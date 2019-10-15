@@ -1,4 +1,8 @@
-  ul {
+body {
+  background-image: "backy.jpg", "backy.jpg";
+  background-color: #cccccc;
+}  
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
