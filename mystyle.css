@@ -39,11 +39,19 @@ img{
   border-width: thick;
   border-color: #1d485c;
   border-style: double;
+  align: center;
 }
 h2{
   color: #1d485c;
   font-family: cursive;
   font-style: italic;
   font-size: 59px;
+  text-align: center;
+}
+p{
+   color: #1d485c;
+  font-family: cursive;
+  font-style: italic;
+  font-size: 39px;
   text-align: center;
 }
