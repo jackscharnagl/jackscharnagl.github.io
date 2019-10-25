@@ -63,6 +63,11 @@ h4{
 }
 button{
   padding: 12px 28px;
-  background-color: #CE5B78;
+  background-color: #8d1955;
   border: 2px solid #af5083;
+  font-family: cursive;
+  font-style: italic;
+  font-size: 59px;
+  text-align: center;
+  color:white;
 }
