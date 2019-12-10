@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+          <title>Tip Calculator</title>
+        <link rel="stylesheet" type="text/css" href="css.css"
+        <script type="text/javascript" src="tr.js"></script>
+                <body>
+
+        <header class="container">
+          <h1>Tip Calculator</h1>
+                <p>How much was your bill?</p>
+                <form action="/action_page.php">
+                $<input type="text" name="fname"><br>
+                </form>
+           <p>How was your service?
+           <p>
+             <select id="serviceQual">
+               <option disabled selected value="0">-- Choose an Option --</option>
+               <option value="0.2">20&#37; &#45; Good</option>
+               <option value="0.15">15&#37; &#45; It was OK</option>
+               <option value="0.1">10&#37; &#45; Bad</option>
+               <option value="0.05">5&#37; &#45; Terrible</option>
+             </select>
+      <p>How many people are sharing the bill?</p>
+
+      <input id="peopleamt" type="text" placeholder="Number of People"> people
+      <br>
+      <br>
+      <button type="button" id="calculate">calculate</button>
+    </header>
+
+        </body>
+        </html>
