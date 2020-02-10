@@ -51,3 +51,8 @@ button{
 p{
   font-family: serif;
 }
+
+#myclocksdisplay{
+  font-size:40px;
+  font-display: block;
+}
